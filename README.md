@@ -32,7 +32,6 @@ Example Exapsys software project demonstrating accelerator usage through a simpl
 **Purpose:**
 
 * Reference software implementation
-* Accelerator invocation example
 * Buffer allocation and execution flow demonstration
 
 ---
@@ -46,7 +45,6 @@ Collection of Exapsys support libraries used by the software template.
 * Input/output buffer creation
 * Memory management utilities
 * Hardware communication helpers
-* Accelerator control functions
 
 ---
 
@@ -57,9 +55,7 @@ FORTH-developed software interface layer derived from the Exapsys template.
 **Purpose:**
 
 * Provides accelerator-specific software interfaces
-* Simplifies parameter configuration
 * Handles communication between application software and hardware accelerator
-* Serves as the primary software API for accelerator execution
 
 ---
 
