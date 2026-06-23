@@ -25,8 +25,6 @@
 #define WORDS_PER_BEAT  16
 #define BEAT_BYTES      64
 
-/* same DDR correction used in Prototype.c */
-#define DDR_PL_OFFSET 0x180000ULL
 
 /* ============================================================
  * Derived constants
